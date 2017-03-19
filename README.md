@@ -1,5 +1,5 @@
 # Win32Serial
-Opening a Serial COM port, writing on it, reading from it and closing it.
+Opening a Serial COM port, writing on it, reading from it and closing it in C using WIN32 API.
 
 Microsoft documentation on serial communicaton: https://msdn.microsoft.com/en-us/library/ff802693.aspx
 
